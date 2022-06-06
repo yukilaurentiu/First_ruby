@@ -1,3 +1,3 @@
-# First_ruby
+# First Ruby Codes
 
-# my first ruby project
+This is my first ruby codes to understand Ruby iteration over Hash.
